@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Docker Salt-Master
 
 A Docker image which allows you to run a containerised Salt-Master server. I had faced a lot of trouble in installing the salt-master on my ubuntu server, which for a solution i have created this containerized salt-master. 
@@ -71,5 +70,3 @@ Once installed run:
     $ docker exec -it $CONTAINER_ID /bin/bash
     $ root@CONTAINER_ID:~# salt '*' test.ping
     $ root@CONTAINER_ID:~# salt '*' grains.items
-=======
->>>>>>> b36d0c6040e9236374dfe568247f3887b1572e16
