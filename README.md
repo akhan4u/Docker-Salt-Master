@@ -1,6 +1,6 @@
 # Docker Salt-Master
 
-A Docker image which allows you to run a containerised Salt-Master server.
+A Docker image which allows you to run a containerised Salt-Master server. I had faced a lot of trouble in installing the salt-master on my ubuntu server, which for a solution i have created this containerized salt-master. 
 
 ## Running the Container
 
